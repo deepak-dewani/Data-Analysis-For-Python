@@ -1,5 +1,4 @@
-# Data-Analysi--For-Python
-
+# Data-Analysis-For-Python
 
 Data Analysis course which include use of followings:
 
