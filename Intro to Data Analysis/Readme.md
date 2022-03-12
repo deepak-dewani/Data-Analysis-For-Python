@@ -8,5 +8,6 @@ A walk through to the data analysis cousre, taking some example.
 Also included exercise.
 
 ## Contents
-1.    Lectures of data analysis
-2.    Exercise for data analysis
+
+1.        Lectures of data analysis
+2.        Exercise for data analysis
