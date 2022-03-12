@@ -6,3 +6,7 @@ with the goal of discovering useful information, informing conclusions, and supp
 
 A walk through to the data analysis cousre, taking some example.
 Also included exercise.
+
+## Contents
+1.    Lectures of data analysis
+2.    Exercise for data analysis
